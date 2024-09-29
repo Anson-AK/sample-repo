@@ -1,1 +1,1 @@
-how to create repository
+how to create repository in github
